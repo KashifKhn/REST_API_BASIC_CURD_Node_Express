@@ -11,19 +11,19 @@ This markdown file serves as documentation for a basic Express.js web applicatio
 
 ## Setup
 
-1. Clone the Repo
+ Clone the Repo:
 
 ```bash
 git clone https://github.com/KashifKhn/REST_API_BASIC_CURD_Node_Express.git
 ```
 
-2. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-3. Run the application:
+2. Run the application:
 
    ```bash
    npm run dev (if nodemon are installed)
